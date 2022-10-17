@@ -69,7 +69,7 @@ It's recommended that you've gone through the [hardhat getting started documenta
 After installing all the requirements, run the following:
 
 ```bash
-git clone https://github.com/smartcontractkit/hardhat-starter-kit/
+git clone https://github.com/faridgaoua/Hardhat_Starter_Kit.git
 cd hardhat-starter-kit
 ```
 Then:
